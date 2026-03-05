@@ -1,15 +1,10 @@
-body{
-text-align:center;
-background:#7bd7ff;
-font-family:Arial;
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  font-family: 'Segoe UI', sans-serif;
 }
 
-canvas{
-background:white;
-border:3px solid black;
-}
-
-#score{
-font-size:22px;
-margin:10px;
+canvas {
+  display: block;
 }
